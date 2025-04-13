@@ -5,6 +5,7 @@
 - <b>Wikimedia Friendship Activities</b>
   - [Wikimedia Estonia-Malaysia Friendship (Organizer)](https://meta.wikimedia.org/wiki/Wikimedia_Estonia-Malaysia_Friendship)
   - [Wikimedia Greece-Malaysia Friendship (Organizer)](https://meta.wikimedia.org/wiki/Wikimedia_Greece-Malaysia_Friendship/Wikimedia_Greece-Malaysia_Friendship_Editing_Month_December_2024)
+  - [A 30-hour Wikipedia Article-Writing Competition in Estonian (Project Coordinator)](https://et.wikipedia.org/wiki/Vikipeedia:Võistkondlik_30_h_artiklivõistlus_2024)
   - [WikiKata (Wiki Trainer– Community Engagement and Outreach)](https://meta.wikimedia.org/wiki/WikiKata)
   - [Wiki Science Competition– Malaysia (Organizer 2023–)](https://ms.wikipedia.org/wiki/Pertandingan_Wiki_Sains)
   - [Ukraine's Cultural Diplomacy Month 2024 in Malaysia (Organizer for event execution)](https://meta.wikimedia.org/wiki/Ukraine%27s_Cultural_Diplomacy_Month_2024/Malaysia)
