@@ -14,7 +14,9 @@
 <h2> 📃 Certifications</h2>
 
 - [Leadership in Global Enterprise Experience (Project Lead and Coordinator)](https://geebiz.org)
+    - Victoria University of Wellington New Zealand
 - [TEDxHELP University 2024 (Co-organizer)](https://www.youtube.com/results?search_query=tedxhelp+university+2024)
+    - HELP University, Malaysia
 - [LinkedIn certifications (related to Data Analytics only):](https://linkedin.com/in/AsmahFederico)
   - Artificial Intelligence Foundations: Machine Learning
   - Visual Studio Code for Python Developers
