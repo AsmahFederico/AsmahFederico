@@ -12,6 +12,11 @@
   - [ESEAP Conference 2024 (Communication team member)](https://meta.wikimedia.org/wiki/ESEAP_Conference_2024)
   - [Wikipedia Asian Month (Participants)](https://meta.wikimedia.org/wiki/Wikipedia_Asian_Month_2023)
 
+<h2> Analytics projects </h2>
+
+- Inventory Reconciliation Project (in Avon Cosmetics SDN BHD, Malaysia)
+  - Using tools and softwares such as Microsoft Excel, Power BI, Microsoft Dynamics, and Third-party Warehouse Management Systems (WMS)
+  
 <h2> 📃 Certifications</h2>
 
 - [Leadership in Global Enterprise Experience (Project Lead and Coordinator)](https://geebiz.org)
